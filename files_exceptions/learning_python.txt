@@ -1,0 +1,11 @@
+In Python you can edit write and read files.
+In Python you can use OOP to represent real life situation.
+In Python you can define funcions to make your code cleaner.
+In Python you can pass many different structures to funcions and they can return them.
+In Python you can use for and while loops to repeat tasks.
+In Python you can get input from users.
+In Python you can use control operator like if, else, elif.
+In Python you can create lists, dictionaries, tuples and manipulate them.
+In Python you can import modules and use aliases.
+In Python you can follow styling rules to make your code more readable.
+In Python you can text your code for errors.
